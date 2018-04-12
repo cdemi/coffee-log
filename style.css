@@ -13,3 +13,7 @@
     width: 100%;
     z-index: 1;
 }
+
+#coffeeStatsContainer > div {
+    margin-bottom: 24px;
+}

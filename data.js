@@ -2,7 +2,7 @@
     global._data = window._data || {};
     global._data.coffeePresets = [
         {
-          "type": "Caffe Mocha",
+          "type": "Caffè Mocha",
           "class": "Hot",
           "beans": "Brazillian",
           "milk_type": "Full Fat",
@@ -11,12 +11,21 @@
           "coffee_station": "AFK Cafè"
         },
         {
-          "type": "Americano",
+          "type": "Caffè Americano",
           "class": "Hot",
           "beans": "Maltese",
           "milk_type": "Full Skim",
           "milk_used": 68,
           "coffee_used": 120,
+          "coffee_station": "AFK Cafè"
+        },
+        {
+          "type": "Latter",
+          "class": "Hot",
+          "beans": "Maltese",
+          "milk_type": "Full Skim",
+          "milk_used": 200,
+          "coffee_used": 10,
           "coffee_station": "AFK Cafè"
         },
         {
