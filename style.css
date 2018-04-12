@@ -1,0 +1,15 @@
+.container {
+    max-width: 960px;
+    margin-top: 20px;
+    position: relative;
+}
+
+#coffeePresetContainer button {
+    margin-top: 20px;
+}
+
+.alert-container {
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}
